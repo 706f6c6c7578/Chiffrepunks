@@ -30,7 +30,7 @@ F: Haben Chiffrepunks politische Ziele, oder was sind deren Ziele?
 A: Chiffrepunks haben keine politischen Ziele. Sie sehen ihre Aufgabe darin
 im fairen, sportlichen und ehrlichen Wettbewerb die Führerschaft im
 kryptografischen Bereich, zu Wasser, zu Lande und in der Luft zu erreichen
-und Menschen unentgetlich zu helfen.
+und Menschen unentgeltlich zu helfen.
 
 F: Wo findet man Chiffrepunks?
 
