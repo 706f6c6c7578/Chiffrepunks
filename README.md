@@ -6,7 +6,7 @@ A: Chiffrepunks sind Individualisten, nicht bestechlich und welche
 Menschen, im virtuellen Adressraum, sowie im realen Leben, helfen
 und Freude an Kryptografie haben. Ihr Ursprung ist die damalige
 Bundesrepublik Deutschland, zu Zeiten der Punk Bewegung und
-dem damaligen Beliebtwerden von Heim Computer.
+dem damaligen beliebt werden von Heim Computer.
 
 F: Was unterscheidet Chiffrepunks von den legendären Amerikanischen
 Cypherpunks?
