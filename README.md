@@ -20,7 +20,7 @@ F: Habe Chiffrepunks ein Logo oder etwas ähnliches, da es kein Logo
 bei den Cypherpunks gab?
 
 A: Ja. Das Logo basiert auf damaligen Soviet Propaganda Plakaten
-und zeigt eine geballte Faust, mit einem großen Schlüssel, welcher
+und zeigt eine geballte Faust, mit einem großen Schlüssel, welche
 bei Toren für Ritterburgen üblich waren. Hinter der geballten Faust
 zeigen sich radial Sonnenstrahlen. Jedem Chiffrepunk oder Chiffrepunkette
 ist die Logogestaltung selbst überlassen.
