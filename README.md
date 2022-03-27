@@ -13,7 +13,7 @@ Cypherpunks?
 
 A: Sie sind keine Zusammenkunft, wie z.B. auf deren damaliger Mailing List,
 oder Usenetgruppe und sind als solche auch nicht auf z.B. Wikipedia
-aufgefüht. Desweiteren haben sie auch kein öffentlich einsehbares
+aufgeführt. Desweiteren haben sie auch kein öffentlich einsehbares
 Manifest und arbeiten alleine und dezentral.
 
 F: Habe Chiffrepunks ein Logo oder etwas ähnliches, da es kein Logo
