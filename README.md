@@ -35,4 +35,4 @@ und Menschen unentgeltlich zu helfen.
 F: Wo findet man Chiffrepunks?
 
 A: Gute Frage! Man wird selbst einer, da die Wahrscheinlichkeit gering ist
-selbige zu finden. :-)
+selbige zu finden.
