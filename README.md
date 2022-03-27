@@ -11,7 +11,7 @@ dem damaligen beliebt werden von Heim Computer.
 F: Was unterscheidet Chiffrepunks von den legendären Amerikanischen
 Cypherpunks?
 
-A: Sie sind keine Zusammenkunft, wie z.B. auf deren damaligen Mailing List,
+A: Sie sind keine Zusammenkunft, wie z.B. auf deren damaliger Mailing List,
 oder Usenetgruppe und sind als solche auch nicht auf z.B. Wikipedia
 aufgefüht. Desweiteren haben sie auch kein öffentlich einsehbares
 Manifest und arbeiten alleine und dezentral.
